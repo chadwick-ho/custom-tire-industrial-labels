@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chadwick-ho.github.io/custom-tire-industrial-labels/sitemap.xml

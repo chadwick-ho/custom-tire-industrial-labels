@@ -1,1 +1,0 @@
-# Custom Tire & Industrial Labels
