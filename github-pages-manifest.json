@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-02T07:05:48.123Z",
+  "generatedAt": "2026-09-04T07:11:49.083Z",
   "repo": "chadwick-ho/custom-tire-industrial-labels",
-  "url": "https://chadwick-ho.github.io/custom-tire-industrial-labels/",
+  "url": "http://www.cyjlabels.com/",
   "root": "index.html",
-  "basePath": "/custom-tire-industrial-labels",
-  "fileCount": 82,
+  "basePath": "",
+  "cname": "www.cyjlabels.com",
+  "fileCount": 83,
   "nojekyll": true
 }
