@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:23:40.197Z",
+  "generatedAt": "2026-09-04T07:39:36.928Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -13,6 +13,9 @@
     "/industrial-barcode-qr-code-labels/",
     "/asset-serial-number-labels/",
     "/warning-information-labels/",
+    "/chemical-labels/",
+    "/special-environment-labels/",
+    "/electronics-electrical-labels/",
     "/custom-variable-data-labels/",
     "/materials-adhesives/",
     "/printing-capabilities/",
@@ -36,6 +39,6 @@
     "/blog/industrial-label-material-selection/",
     "/blog/roll-label-specifications/"
   ],
-  "fileCount": 77,
-  "assetCount": 18
+  "fileCount": 91,
+  "assetCount": 29
 }
