@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:01:31.645Z",
+  "generatedAt": "2026-09-07T09:47:51.467Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -31,6 +31,9 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/why-tire-labels-do-not-stick/",
+    "/blog/custom-tire-tread-labels-buyer-guide/",
+    "/blog/industrial-label-materials-guide/",
     "/blog/tire-label-material-considerations/",
     "/blog/adhesive-considerations-for-tire-surfaces/",
     "/blog/how-to-prepare-tire-label-artwork/",
@@ -39,6 +42,6 @@
     "/blog/industrial-label-material-selection/",
     "/blog/roll-label-specifications/"
   ],
-  "fileCount": 142,
+  "fileCount": 145,
   "assetCount": 92
 }
