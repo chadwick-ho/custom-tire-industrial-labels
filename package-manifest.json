@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T01:32:21.050Z",
+  "generatedAt": "2026-09-08T06:42:44.539Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -32,6 +32,9 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/tire-barcode-labels-inventory-tracking/",
+    "/blog/chemical-drum-labels-buyer-checklist/",
+    "/blog/asset-tracking-labels-qr-serial-numbers/",
     "/blog/why-tire-labels-do-not-stick/",
     "/blog/custom-tire-tread-labels-buyer-guide/",
     "/blog/industrial-label-materials-guide/",
@@ -43,6 +46,6 @@
     "/blog/industrial-label-material-selection/",
     "/blog/roll-label-specifications/"
   ],
-  "fileCount": 158,
+  "fileCount": 161,
   "assetCount": 92
 }
