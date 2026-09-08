@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:39:51.633Z",
+  "generatedAt": "2026-09-08T08:55:28.487Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -46,6 +46,6 @@
     "/blog/industrial-label-material-selection/",
     "/blog/roll-label-specifications/"
   ],
-  "fileCount": 161,
+  "fileCount": 149,
   "assetCount": 92
 }
