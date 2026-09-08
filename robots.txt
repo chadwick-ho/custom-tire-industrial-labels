@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://www.cyjlabels.com/sitemap.xml
+Sitemap: https://www.cyjlabels.com/sitemap.xml
+Sitemap: https://www.cyjlabels.com/feed.xml
