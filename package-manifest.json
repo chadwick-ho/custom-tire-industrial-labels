@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T02:02:01.064Z",
+  "generatedAt": "2026-09-09T10:18:29.628Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -44,8 +44,11 @@
     "/blog/barcode-labels-for-industrial-identification/",
     "/blog/variable-data-labels-explained/",
     "/blog/industrial-label-material-selection/",
-    "/blog/roll-label-specifications/"
+    "/blog/roll-label-specifications/",
+    "/blog/custom-machinery-warning-labels-buyer-guide/",
+    "/blog/electrical-rating-labels-small-text-serial-data/",
+    "/blog/waterproof-industrial-labels-buyer-checklist/"
   ],
-  "fileCount": 182,
+  "fileCount": 185,
   "assetCount": 125
 }
