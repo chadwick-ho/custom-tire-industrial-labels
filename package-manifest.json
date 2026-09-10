@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:18:29.628Z",
+  "generatedAt": "2026-09-10T11:56:30.890Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -47,8 +47,11 @@
     "/blog/roll-label-specifications/",
     "/blog/custom-machinery-warning-labels-buyer-guide/",
     "/blog/electrical-rating-labels-small-text-serial-data/",
-    "/blog/waterproof-industrial-labels-buyer-checklist/"
+    "/blog/waterproof-industrial-labels-buyer-checklist/",
+    "/blog/private-label-tire-labels-for-wholesalers/",
+    "/blog/custom-qr-code-labels-for-equipment-maintenance/",
+    "/blog/removable-vs-permanent-labels-for-industrial-projects/"
   ],
-  "fileCount": 185,
+  "fileCount": 188,
   "assetCount": 125
 }
