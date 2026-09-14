@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:44:13.381Z",
+  "generatedAt": "2026-09-14T10:21:40.386Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -53,8 +53,11 @@
     "/blog/removable-vs-permanent-labels-for-industrial-projects/",
     "/blog/ghs-chemical-labels-information-before-printing/",
     "/blog/industrial-nameplate-vs-label/",
-    "/blog/outdoor-equipment-labels-buyer-checklist/"
+    "/blog/outdoor-equipment-labels-buyer-checklist/",
+    "/blog/nfc-asset-labels-vs-qr-code-labels/",
+    "/blog/custom-label-moq-quote-guide/",
+    "/blog/multilingual-safety-labels-buyer-guide/"
   ],
-  "fileCount": 191,
+  "fileCount": 194,
   "assetCount": 125
 }
