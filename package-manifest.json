@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:49:20.035Z",
+  "generatedAt": "2026-09-21T06:01:59.279Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -56,8 +56,13 @@
     "/blog/outdoor-equipment-labels-buyer-checklist/",
     "/blog/nfc-asset-labels-vs-qr-code-labels/",
     "/blog/custom-label-moq-quote-guide/",
-    "/blog/multilingual-safety-labels-buyer-guide/"
+    "/blog/multilingual-safety-labels-buyer-guide/",
+    "/blog/cold-surface-label-application/",
+    "/blog/industrial-label-bleed-safe-area/",
+    "/blog/barcode-quiet-zone-label-design/",
+    "/blog/label-liner-release-coating/",
+    "/blog/industrial-label-version-control/"
   ],
-  "fileCount": 194,
-  "assetCount": 125
+  "fileCount": 204,
+  "assetCount": 130
 }
