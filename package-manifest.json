@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:37:03.839Z",
+  "generatedAt": "2026-09-22T05:29:12.651Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -68,6 +68,6 @@
     "/blog/labels-for-curved-containers/",
     "/blog/tire-label-placement-guide/"
   ],
-  "fileCount": 214,
-  "assetCount": 135
+  "fileCount": 219,
+  "assetCount": 140
 }
