@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:25:16.121Z",
+  "generatedAt": "2026-09-22T02:37:03.839Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -61,8 +61,13 @@
     "/blog/industrial-label-bleed-safe-area/",
     "/blog/barcode-quiet-zone-label-design/",
     "/blog/label-liner-release-coating/",
-    "/blog/industrial-label-version-control/"
+    "/blog/industrial-label-version-control/",
+    "/blog/industrial-label-lamination-vs-varnish/",
+    "/blog/custom-die-cut-label-shapes/",
+    "/blog/industrial-label-color-matching/",
+    "/blog/labels-for-curved-containers/",
+    "/blog/tire-label-placement-guide/"
   ],
-  "fileCount": 204,
-  "assetCount": 130
+  "fileCount": 214,
+  "assetCount": 135
 }
