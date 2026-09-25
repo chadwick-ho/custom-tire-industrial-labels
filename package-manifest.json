@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:22:33.593Z",
+  "generatedAt": "2026-09-25T10:47:57.212Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -66,8 +66,13 @@
     "/blog/custom-die-cut-label-shapes/",
     "/blog/industrial-label-color-matching/",
     "/blog/labels-for-curved-containers/",
-    "/blog/tire-label-placement-guide/"
+    "/blog/tire-label-placement-guide/",
+    "/blog/industrial-labels-for-oily-surfaces/",
+    "/blog/qr-code-label-size-for-equipment/",
+    "/blog/tire-label-roll-direction-guide/",
+    "/blog/warning-label-icon-layout/",
+    "/blog/serial-number-label-format-guide/"
   ],
-  "fileCount": 219,
-  "assetCount": 140
+  "fileCount": 229,
+  "assetCount": 145
 }
