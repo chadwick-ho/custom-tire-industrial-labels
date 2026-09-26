@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T02:40:57.642Z",
+  "generatedAt": "2026-09-26T03:46:17.847Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -76,8 +76,13 @@
     "/blog/why-industrial-label-edges-lift/",
     "/blog/tamper-evident-asset-labels/",
     "/blog/private-label-tire-label-information/",
-    "/blog/cold-chain-labels-batch-date/"
+    "/blog/cold-chain-labels-batch-date/",
+    "/blog/labels-for-powder-coated-metal/",
+    "/blog/labels-for-textured-plastic-housings/",
+    "/blog/preprinted-vs-on-demand-serial-labels/",
+    "/blog/removable-tire-tread-labels-residue/",
+    "/blog/custom-label-sample-approval-checklist/"
   ],
-  "fileCount": 239,
-  "assetCount": 150
+  "fileCount": 249,
+  "assetCount": 155
 }
