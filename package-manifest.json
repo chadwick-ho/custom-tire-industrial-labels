@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T03:33:10.870Z",
+  "generatedAt": "2026-09-27T13:29:30.126Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -86,8 +86,13 @@
     "/blog/high-temperature-equipment-labels/",
     "/blog/replacement-machinery-labels/",
     "/blog/multiple-sku-tire-label-rolls/",
-    "/blog/label-roll-storage-before-application/"
+    "/blog/label-roll-storage-before-application/",
+    "/blog/labels-for-pp-pe-plastic-housings/",
+    "/blog/wax-wax-resin-resin-ribbon-guide/",
+    "/blog/clear-industrial-labels-dark-surfaces/",
+    "/blog/asset-qr-code-link-ownership/",
+    "/blog/tire-label-market-version-control/"
   ],
-  "fileCount": 260,
-  "assetCount": 160
+  "fileCount": 270,
+  "assetCount": 165
 }
