@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T16:32:49.895Z",
+  "generatedAt": "2026-09-27T03:09:47.607Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -81,8 +81,13 @@
     "/blog/labels-for-textured-plastic-housings/",
     "/blog/preprinted-vs-on-demand-serial-labels/",
     "/blog/removable-tire-tread-labels-residue/",
-    "/blog/custom-label-sample-approval-checklist/"
+    "/blog/custom-label-sample-approval-checklist/",
+    "/blog/glossy-barcode-label-glare/",
+    "/blog/high-temperature-equipment-labels/",
+    "/blog/replacement-machinery-labels/",
+    "/blog/multiple-sku-tire-label-rolls/",
+    "/blog/label-roll-storage-before-application/"
   ],
-  "fileCount": 250,
-  "assetCount": 155
+  "fileCount": 260,
+  "assetCount": 160
 }
