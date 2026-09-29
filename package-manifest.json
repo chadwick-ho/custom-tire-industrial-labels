@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:22:01.649Z",
+  "generatedAt": "2026-09-29T13:26:48.546Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -96,8 +96,13 @@
     "/blog/tire-return-rework-labels/",
     "/blog/cable-wire-wrap-labels/",
     "/blog/calibration-status-labels/",
-    "/blog/duplicate-serial-barcode-labels/"
+    "/blog/duplicate-serial-barcode-labels/",
+    "/blog/tire-qr-vs-linear-barcode-labels/",
+    "/blog/mixed-tire-pallet-labels/",
+    "/blog/pipe-marker-vs-valve-tag/",
+    "/blog/washdown-equipment-id-labels/",
+    "/blog/reusable-tote-asset-vs-shipping-label/"
   ],
-  "fileCount": 280,
-  "assetCount": 170
+  "fileCount": 290,
+  "assetCount": 175
 }
