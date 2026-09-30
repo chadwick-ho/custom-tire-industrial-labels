@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T13:26:48.546Z",
+  "generatedAt": "2026-09-30T13:29:07.515Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -101,8 +101,13 @@
     "/blog/mixed-tire-pallet-labels/",
     "/blog/pipe-marker-vs-valve-tag/",
     "/blog/washdown-equipment-id-labels/",
-    "/blog/reusable-tote-asset-vs-shipping-label/"
+    "/blog/reusable-tote-asset-vs-shipping-label/",
+    "/blog/tire-rfid-vs-printed-barcode/",
+    "/blog/automatic-tire-label-roll-specs/",
+    "/blog/warehouse-bin-location-vs-part-label/",
+    "/blog/barcode-verification-vs-scan-test/",
+    "/blog/coastal-equipment-id-labels/"
   ],
-  "fileCount": 290,
-  "assetCount": 175
+  "fileCount": 300,
+  "assetCount": 180
 }
