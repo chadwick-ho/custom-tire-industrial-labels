@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T13:29:07.515Z",
+  "generatedAt": "2026-10-01T14:31:30.380Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -106,8 +106,13 @@
     "/blog/automatic-tire-label-roll-specs/",
     "/blog/warehouse-bin-location-vs-part-label/",
     "/blog/barcode-verification-vs-scan-test/",
-    "/blog/coastal-equipment-id-labels/"
+    "/blog/coastal-equipment-id-labels/",
+    "/blog/direct-thermal-vs-thermal-transfer-industrial-labels/",
+    "/blog/tire-pallet-labels-after-stretch-wrap/",
+    "/blog/secondary-container-workplace-labels/",
+    "/blog/forklift-asset-id-vs-capacity-plate/",
+    "/blog/spare-parts-kit-vs-component-labels/"
   ],
-  "fileCount": 300,
-  "assetCount": 180
+  "fileCount": 310,
+  "assetCount": 185
 }
