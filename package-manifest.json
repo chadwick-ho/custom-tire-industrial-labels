@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T13:33:26.124Z",
+  "generatedAt": "2026-10-03T13:26:29.799Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -32,6 +32,11 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/tire-tread-labels-roll-vs-sheet/",
+    "/blog/tire-barcode-label-size-readable-data/",
+    "/blog/rental-equipment-asset-labels/",
+    "/blog/control-panel-button-legend-labels/",
+    "/blog/stainless-steel-washdown-equipment-labels/",
     "/blog/tire-sidewall-vs-tread-barcode-labels/",
     "/blog/tire-label-roll-changeover-checklist/",
     "/blog/anodized-aluminum-equipment-labels/",
@@ -118,6 +123,6 @@
     "/blog/forklift-asset-id-vs-capacity-plate/",
     "/blog/spare-parts-kit-vs-component-labels/"
   ],
-  "fileCount": 320,
-  "assetCount": 190
+  "fileCount": 330,
+  "assetCount": 195
 }
