@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:26:29.799Z",
+  "generatedAt": "2026-10-04T13:33:08.420Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -32,6 +32,11 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/used-tire-inventory-labels-inspection-record/",
+    "/blog/wheel-tire-assembly-labels-set-id/",
+    "/blog/motor-rotation-direction-labels/",
+    "/blog/lockout-isolation-point-labels-vs-tags/",
+    "/blog/equipment-repair-return-tags-vs-asset-id/",
     "/blog/tire-tread-labels-roll-vs-sheet/",
     "/blog/tire-barcode-label-size-readable-data/",
     "/blog/rental-equipment-asset-labels/",
@@ -123,6 +128,6 @@
     "/blog/forklift-asset-id-vs-capacity-plate/",
     "/blog/spare-parts-kit-vs-component-labels/"
   ],
-  "fileCount": 330,
-  "assetCount": 195
+  "fileCount": 340,
+  "assetCount": 200
 }
