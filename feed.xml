@@ -4,7 +4,42 @@
     <title>Custom Tire &amp; Industrial Labels Resources</title>
     <link>https://www.cyjlabels.com/blog/</link>
     <description>Buyer guides for custom tire labels, industrial labels, barcode labels and label material selection.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Industrial Filter Service Labels vs Equipment IDs</title>
+      <link>https://www.cyjlabels.com/blog/industrial-filter-service-labels-vs-equipment-id/</link>
+      <guid>https://www.cyjlabels.com/blog/industrial-filter-service-labels-vs-equipment-id/</guid>
+      <description>The cabinet ID stays when a filter is changed. The filter element, work order and next planned check do not. A useful service label makes those layers obvious at the point of work.</description>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hydraulic Hose Assembly IDs vs Inspection Tags</title>
+      <link>https://www.cyjlabels.com/blog/hydraulic-hose-assembly-id-vs-inspection-tag/</link>
+      <guid>https://www.cyjlabels.com/blog/hydraulic-hose-assembly-id-vs-inspection-tag/</guid>
+      <description>A hose assembly ID helps a technician find the correct record. An inspection tag says what happened at a particular service event. Combining them carelessly can leave an old approval-looking tag attached after conditions change.</description>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lubrication Point Labels vs Machine Asset IDs</title>
+      <link>https://www.cyjlabels.com/blog/lubrication-point-labels-vs-machine-asset-id/</link>
+      <guid>https://www.cyjlabels.com/blog/lubrication-point-labels-vs-machine-asset-id/</guid>
+      <description>A conveyor asset plate gets a technician to the machine. It does not tell them which of several fittings is due for service. Give each service point its own durable, approved identifier and keep the actual lubrication instruction in the controlled maintenance record.</description>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Panel Directory Labels vs Breaker IDs</title>
+      <link>https://www.cyjlabels.com/blog/electrical-panel-directory-vs-breaker-labels/</link>
+      <guid>https://www.cyjlabels.com/blog/electrical-panel-directory-vs-breaker-labels/</guid>
+      <description>A door directory says what each circuit serves. A tiny number beside a breaker points to the right row. If the two lists disagree, better printing only makes the wrong information easier to trust.</description>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tire Display Labels vs Inventory IDs</title>
+      <link>https://www.cyjlabels.com/blog/tire-point-of-purchase-vs-inventory-labels/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-point-of-purchase-vs-inventory-labels/</guid>
+      <description>A showroom sticker has to answer a shopper question quickly. A stock ID has to survive a sale, a price change and a move between racks. One label can support both jobs, but the data owners should not be confused.</description>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Used Tire Inventory Labels vs Inspection Records</title>
       <link>https://www.cyjlabels.com/blog/used-tire-inventory-labels-inspection-record/</link>
@@ -109,41 +144,6 @@
       <guid>https://www.cyjlabels.com/blog/warehouse-rack-beam-barcode-labels/</guid>
       <description>The rack position stays when its contents change. A location label should answer where to put or pick an item, not pretend to identify whichever carton happens to sit above it today.</description>
       <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Direct Thermal vs Thermal Transfer Labels: Buy for the Life of the ID</title>
-      <link>https://www.cyjlabels.com/blog/direct-thermal-vs-thermal-transfer-industrial-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/direct-thermal-vs-thermal-transfer-industrial-labels/</guid>
-      <description>A carton moving out this week and a pump expected to keep its ID for years should not automatically use the same print system. Start with the job and exposure, then select the printer, face stock and ribbon together.</description>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tire Pallet Labels After Stretch Wrap: Make the Load Scannable</title>
-      <link>https://www.cyjlabels.com/blog/tire-pallet-labels-after-stretch-wrap/</link>
-      <guid>https://www.cyjlabels.com/blog/tire-pallet-labels-after-stretch-wrap/</guid>
-      <description>A tread label can identify a tire before the load is wrapped. Once film and straps cover the stack, the receiving dock may need a separate outer pallet identifier. Plan that scan point before the wrapping station.</description>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Secondary Container Workplace Labels: Do Not Copy the Shipping Label Blindly</title>
-      <link>https://www.cyjlabels.com/blog/secondary-container-workplace-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/secondary-container-workplace-labels/</guid>
-      <description>A plant transfer bottle is not necessarily labeled under the same rule as a container leaving the supplier. The employer must approve the hazard information and the workplace system before the printer makes the sticker.</description>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forklift Asset ID Labels vs Capacity Plates: Know Which One You Are Printing</title>
-      <link>https://www.cyjlabels.com/blog/forklift-asset-id-vs-capacity-plate/</link>
-      <guid>https://www.cyjlabels.com/blog/forklift-asset-id-vs-capacity-plate/</guid>
-      <description>A fleet number helps maintenance find a truck. A capacity plate tells an operator what the truck can lift. Put the first where staff can read it without covering, imitating or altering the second.</description>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spare Parts Kit Labels vs Component Labels: One Box, Several Identities</title>
-      <link>https://www.cyjlabels.com/blog/spare-parts-kit-vs-component-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/spare-parts-kit-vs-component-labels/</guid>
-      <description>A maintenance kit has its own pick and issue task, while the bolts, seals and bearings inside may have separate part numbers. Make the outside label useful without turning a kit number into a substitute for each component.</description>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
