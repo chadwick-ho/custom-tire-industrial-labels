@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:53:34.998Z",
+  "generatedAt": "2026-10-07T08:24:47.693Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -32,6 +32,11 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/warehouse-quarantine-status-vs-item-id/",
+    "/blog/pump-id-vs-replaceable-motor-id/",
+    "/blog/reusable-drum-id-vs-cleaning-status/",
+    "/blog/tire-warranty-return-label-vs-claim-record/",
+    "/blog/seasonal-tire-storage-set-vs-tire-id/",
     "/blog/industrial-filter-service-labels-vs-equipment-id/",
     "/blog/hydraulic-hose-assembly-id-vs-inspection-tag/",
     "/blog/lubrication-point-labels-vs-machine-asset-id/",
@@ -133,6 +138,6 @@
     "/blog/forklift-asset-id-vs-capacity-plate/",
     "/blog/spare-parts-kit-vs-component-labels/"
   ],
-  "fileCount": 350,
-  "assetCount": 205
+  "fileCount": 360,
+  "assetCount": 210
 }

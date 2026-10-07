@@ -4,7 +4,42 @@
     <title>Custom Tire &amp; Industrial Labels Resources</title>
     <link>https://www.cyjlabels.com/blog/</link>
     <description>Buyer guides for custom tire labels, industrial labels, barcode labels and label material selection.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Warehouse Hold Labels vs Item and Lot IDs</title>
+      <link>https://www.cyjlabels.com/blog/warehouse-quarantine-status-vs-item-id/</link>
+      <guid>https://www.cyjlabels.com/blog/warehouse-quarantine-status-vs-item-id/</guid>
+      <description>The carton is still part V-204, lot L-18. Its status has changed to HOLD FOR REVIEW. One identifier tells staff what it is; the other tells them what they may not do yet.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pump IDs vs Replaceable Motor IDs</title>
+      <link>https://www.cyjlabels.com/blog/pump-id-vs-replaceable-motor-id/</link>
+      <guid>https://www.cyjlabels.com/blog/pump-id-vs-replaceable-motor-id/</guid>
+      <description>A pump skid can stay in place when its motor goes to the repair shop. If the only number is on the motor, the pump appears to disappear with it. If the number is only on the frame, the removed motor loses its own history.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reusable Drum IDs vs Cleaning Status Tags</title>
+      <link>https://www.cyjlabels.com/blog/reusable-drum-id-vs-cleaning-status/</link>
+      <guid>https://www.cyjlabels.com/blog/reusable-drum-id-vs-cleaning-status/</guid>
+      <description>The drum can keep the same asset number through many trips. Its contents, inspection and cleaning status can change each time. An ID sticker and a temporary hold tag should never be mistaken for the required contents and hazard communication.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tire Warranty Return Labels vs Claim Records</title>
+      <link>https://www.cyjlabels.com/blog/tire-warranty-return-label-vs-claim-record/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-warranty-return-label-vs-claim-record/</guid>
+      <description>The returned tire is a physical item on a bench. The claim is a decision process that may still be open. A bright tag can keep the tire from being sold or mixed with stock, but it cannot decide coverage.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seasonal Tire Storage: Set Labels vs Tire IDs</title>
+      <link>https://www.cyjlabels.com/blog/seasonal-tire-storage-set-vs-tire-id/</link>
+      <guid>https://www.cyjlabels.com/blog/seasonal-tire-storage-set-vs-tire-id/</guid>
+      <description>The pickup desk wants one set number. The fitter wants to know which of four tires was left front. A storage label system has to answer both questions after the tires have been moved, bagged and shelved.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Industrial Filter Service Labels vs Equipment IDs</title>
       <link>https://www.cyjlabels.com/blog/industrial-filter-service-labels-vs-equipment-id/</link>
@@ -109,41 +144,6 @@
       <guid>https://www.cyjlabels.com/blog/stainless-steel-washdown-equipment-labels/</guid>
       <description>Stainless steel describes the cabinet, not the whole labeling environment. The same label may see a cleaned surface at application and repeated wet cleaning after installation.</description>
       <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tire Sidewall vs Tread Barcode Labels: Choose the Scan Surface</title>
-      <link>https://www.cyjlabels.com/blog/tire-sidewall-vs-tread-barcode-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/tire-sidewall-vs-tread-barcode-labels/</guid>
-      <description>The same SKU can look perfectly readable on a proof and disappear once the tire is stacked. Choose sidewall or tread only after watching where a worker actually sees, applies and scans the label.</description>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tire Label Roll Changeover: Keep Adjacent Sizes and Revisions Apart</title>
-      <link>https://www.cyjlabels.com/blog/tire-label-roll-changeover-checklist/</link>
-      <guid>https://www.cyjlabels.com/blog/tire-label-roll-changeover-checklist/</guid>
-      <description>Two rolls can share the same color and almost the same tire size. At changeover, the question is not whether the artwork looks familiar; it is whether the roll, job ticket and first applied label agree.</description>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Labels on Anodized Aluminum Equipment: Finish, Cleaning and Proof</title>
-      <link>https://www.cyjlabels.com/blog/anodized-aluminum-equipment-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/anodized-aluminum-equipment-labels/</guid>
-      <description>A smooth-looking aluminum sample is not the whole job. The approved label needs to meet the exact anodized finish, cleaning routine, placement and data that operators will handle.</description>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Asset ID Labels on Removable Machine Guards: Keep IDs With the Right Part</title>
-      <link>https://www.cyjlabels.com/blog/asset-labels-removable-machine-guards/</link>
-      <guid>https://www.cyjlabels.com/blog/asset-labels-removable-machine-guards/</guid>
-      <description>When a machine guard comes off for service, a label placed only on that guard may travel with the panel. Keep the permanent machine ID and the removable part ID distinct, and do not cover safety information.</description>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Warehouse Rack-Beam Barcode Labels: Location ID, Not Product ID</title>
-      <link>https://www.cyjlabels.com/blog/warehouse-rack-beam-barcode-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/warehouse-rack-beam-barcode-labels/</guid>
-      <description>The rack position stays when its contents change. A location label should answer where to put or pick an item, not pretend to identify whichever carton happens to sit above it today.</description>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

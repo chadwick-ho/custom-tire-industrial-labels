@@ -2,7 +2,7 @@
 
 > B2B custom label project information for tire and industrial applications. The site describes project-based label customization and provides product guides, application notes, and contact routes.
 
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
 ## Verified site scope
 
@@ -31,6 +31,11 @@ Last updated: 2026-10-06
 
 ## Recent buyer guides
 
+- [Seasonal Tire Storage: Set Labels vs Tire IDs](https://www.cyjlabels.com/blog/seasonal-tire-storage-set-vs-tire-id/)
+- [Tire Warranty Return Labels vs Claim Records](https://www.cyjlabels.com/blog/tire-warranty-return-label-vs-claim-record/)
+- [Reusable Drum IDs vs Cleaning Status](https://www.cyjlabels.com/blog/reusable-drum-id-vs-cleaning-status/)
+- [Pump IDs vs Replaceable Motor IDs](https://www.cyjlabels.com/blog/pump-id-vs-replaceable-motor-id/)
+- [Warehouse Hold Labels vs Item and Lot IDs](https://www.cyjlabels.com/blog/warehouse-quarantine-status-vs-item-id/)
 - [Tire Display Labels vs Inventory IDs](https://www.cyjlabels.com/blog/tire-point-of-purchase-vs-inventory-labels/)
 - [Panel Directory Labels vs Breaker IDs](https://www.cyjlabels.com/blog/electrical-panel-directory-vs-breaker-labels/)
 - [Lubrication Point Labels vs Machine Asset IDs](https://www.cyjlabels.com/blog/lubrication-point-labels-vs-machine-asset-id/)
