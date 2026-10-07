@@ -6,6 +6,41 @@
     <description>Buyer guides for custom tire labels, industrial labels, barcode labels and label material selection.</description>
     <lastBuildDate>Tue, 06 Oct 2026 16:00:00 GMT</lastBuildDate>
     <item>
+      <title>Tire Bead Barcode vs Tread Label: Which Job Is It For?</title>
+      <link>https://www.cyjlabels.com/blog/tire-bead-barcode-vs-tread-label/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-bead-barcode-vs-tread-label/</guid>
+      <description>A buyer can ask for a tire barcode and mean two very different things. The small code near the bead follows a manufacturing or inspection process; the larger tread label carries information people see while the tire is unmounted. The mounting step changes what can be read.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tire Label Software vs Printed Labels: Who Owns the Data?</title>
+      <link>https://www.cyjlabels.com/blog/tire-label-data-file-vs-software/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-label-data-file-vs-software/</guid>
+      <description>The label proof can look perfect while the wrong tire size is attached to the barcode. Before asking which software prints the sticker, decide who owns the product record, who creates the variable file and where the code is checked against a real tire.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chemical Labels for Drums, Jugs and Bottles: One Product, Three Layouts</title>
+      <link>https://www.cyjlabels.com/blog/chemical-labels-multiple-container-sizes/</link>
+      <guid>https://www.cyjlabels.com/blog/chemical-labels-multiple-container-sizes/</guid>
+      <description>The 200-liter drum has room for a full information panel. The small bottle does not. A buyer can keep one product identity across both, but simply shrinking the drum artwork until the smallest text disappears is not a production plan.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sequential Asset Tag Number Ranges: Issued, Reserved and Void</title>
+      <link>https://www.cyjlabels.com/blog/asset-tag-number-ranges/</link>
+      <guid>https://www.cyjlabels.com/blog/asset-tag-number-ranges/</guid>
+      <description>A quote for 5,000 numbered asset tags is not complete when it states only the quantity. Someone must decide the starting ID, the last ID, which ranges are already reserved and what happens when a tag is damaged before it ever reaches a machine.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Equipment Relocation Labels: Keep Asset ID Separate from Bay Location</title>
+      <link>https://www.cyjlabels.com/blog/equipment-relocation-asset-vs-location/</link>
+      <guid>https://www.cyjlabels.com/blog/equipment-relocation-asset-vs-location/</guid>
+      <description>A machine can move from Bay 01 to Bay 03 without becoming a different machine. The plant location changed; the physical asset did not. A label plan that prints the bay number as the only machine ID makes every move a relabeling problem.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Warehouse Hold Labels vs Item and Lot IDs</title>
       <link>https://www.cyjlabels.com/blog/warehouse-quarantine-status-vs-item-id/</link>
       <guid>https://www.cyjlabels.com/blog/warehouse-quarantine-status-vs-item-id/</guid>
@@ -109,41 +144,6 @@
       <guid>https://www.cyjlabels.com/blog/equipment-repair-return-tags-vs-asset-id/</guid>
       <description>The pump comes back with a repair ticket today and may return again next year. The ticket changes. Its asset ID should not. A label plan has to preserve both histories.</description>
       <pubDate>Sat, 03 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tire Tread Labels: Roll or Sheet for Manual Application?</title>
-      <link>https://www.cyjlabels.com/blog/tire-tread-labels-roll-vs-sheet/</link>
-      <guid>https://www.cyjlabels.com/blog/tire-tread-labels-roll-vs-sheet/</guid>
-      <description>A roll looks efficient on a quote. A sheet can make a small, mixed-SKU bench easier to control. The right format depends on who peels the label, how often the job changes and where unused stock goes.</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tire Barcode Label Size: Leave Room for the Code and the Tire Size</title>
-      <link>https://www.cyjlabels.com/blog/tire-barcode-label-size-readable-data/</link>
-      <guid>https://www.cyjlabels.com/blog/tire-barcode-label-size-readable-data/</guid>
-      <description>Shrinking the tire size until a code fits is not a design win. Neither is squeezing a barcode to the edge so the label looks tidy. Start with the scanner, payload and real viewing distance.</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rental Equipment Asset Labels: One Unit ID Through Every Return</title>
-      <link>https://www.cyjlabels.com/blog/rental-equipment-asset-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/rental-equipment-asset-labels/</guid>
-      <description>A rental job ends; the physical unit remains. Its asset sticker should still point to the same machine when the next hire ticket, return slip or service order changes.</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Control Panel Button Legend Labels: Replace Words Without Rewriting Safety</title>
-      <link>https://www.cyjlabels.com/blog/control-panel-button-legend-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/control-panel-button-legend-labels/</guid>
-      <description>A faded START label is a small purchase until the new sticker points at the wrong control. Treat button legends as an approved equipment map, not a freehand design exercise.</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stainless Steel Washdown Equipment Labels: Specify the Cleaning, Not Just the Metal</title>
-      <link>https://www.cyjlabels.com/blog/stainless-steel-washdown-equipment-labels/</link>
-      <guid>https://www.cyjlabels.com/blog/stainless-steel-washdown-equipment-labels/</guid>
-      <description>Stainless steel describes the cabinet, not the whole labeling environment. The same label may see a cleaned surface at application and repeated wet cleaning after installation.</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

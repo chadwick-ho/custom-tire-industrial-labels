@@ -31,6 +31,11 @@ Last updated: 2026-10-07
 
 ## Recent buyer guides
 
+- [Tire Bead Barcode vs Tread Label](https://www.cyjlabels.com/blog/tire-bead-barcode-vs-tread-label/)
+- [Tire Label Data Files vs Software](https://www.cyjlabels.com/blog/tire-label-data-file-vs-software/)
+- [Chemical Labels for Multiple Container Sizes](https://www.cyjlabels.com/blog/chemical-labels-multiple-container-sizes/)
+- [Sequential Asset Tag Number Ranges](https://www.cyjlabels.com/blog/asset-tag-number-ranges/)
+- [Equipment Relocation: Asset ID vs Location](https://www.cyjlabels.com/blog/equipment-relocation-asset-vs-location/)
 - [Seasonal Tire Storage: Set Labels vs Tire IDs](https://www.cyjlabels.com/blog/seasonal-tire-storage-set-vs-tire-id/)
 - [Tire Warranty Return Labels vs Claim Records](https://www.cyjlabels.com/blog/tire-warranty-return-label-vs-claim-record/)
 - [Reusable Drum IDs vs Cleaning Status](https://www.cyjlabels.com/blog/reusable-drum-id-vs-cleaning-status/)

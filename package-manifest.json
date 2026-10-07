@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:31:35.675Z",
+  "generatedAt": "2026-10-07T15:13:21.073Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -32,6 +32,11 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/tire-bead-barcode-vs-tread-label/",
+    "/blog/tire-label-data-file-vs-software/",
+    "/blog/chemical-labels-multiple-container-sizes/",
+    "/blog/asset-tag-number-ranges/",
+    "/blog/equipment-relocation-asset-vs-location/",
     "/blog/warehouse-quarantine-status-vs-item-id/",
     "/blog/pump-id-vs-replaceable-motor-id/",
     "/blog/reusable-drum-id-vs-cleaning-status/",
@@ -138,6 +143,6 @@
     "/blog/forklift-asset-id-vs-capacity-plate/",
     "/blog/spare-parts-kit-vs-component-labels/"
   ],
-  "fileCount": 360,
-  "assetCount": 210
+  "fileCount": 370,
+  "assetCount": 215
 }
