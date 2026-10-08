@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:28:10.120Z",
+  "generatedAt": "2026-10-08T13:28:41.979Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -32,6 +32,11 @@
     "/custom-order-policy/",
     "/refund-cancellation-policy/",
     "/blog/",
+    "/blog/staggered-tire-front-rear-labels/",
+    "/blog/tire-load-speed-rating-label-proof/",
+    "/blog/serial-label-csv-leading-zeros/",
+    "/blog/equipment-asset-labels-after-repainting/",
+    "/blog/chemical-label-revision-after-sds-update/",
     "/blog/tire-bead-barcode-vs-tread-label/",
     "/blog/tire-label-data-file-vs-software/",
     "/blog/chemical-labels-multiple-container-sizes/",
@@ -143,6 +148,6 @@
     "/blog/forklift-asset-id-vs-capacity-plate/",
     "/blog/spare-parts-kit-vs-component-labels/"
   ],
-  "fileCount": 370,
-  "assetCount": 215
+  "fileCount": 380,
+  "assetCount": 220
 }
