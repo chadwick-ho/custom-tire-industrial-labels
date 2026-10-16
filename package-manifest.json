@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:28:41.979Z",
+  "generatedAt": "2026-10-16T11:49:27.460Z",
   "root": "index.html",
   "routes": [
     "/",
@@ -146,8 +146,13 @@
     "/blog/tire-pallet-labels-after-stretch-wrap/",
     "/blog/secondary-container-workplace-labels/",
     "/blog/forklift-asset-id-vs-capacity-plate/",
-    "/blog/spare-parts-kit-vs-component-labels/"
+    "/blog/spare-parts-kit-vs-component-labels/",
+    "/blog/eu-tyre-label-vs-custom-tread-sticker/",
+    "/blog/narrow-wide-tire-tread-label-size/",
+    "/blog/heat-shrink-vs-wrap-around-wire-markers/",
+    "/blog/tool-crib-tool-id-vs-drawer-label/",
+    "/blog/ul-969-label-system-document-check/"
   ],
-  "fileCount": 380,
-  "assetCount": 220
+  "fileCount": 390,
+  "assetCount": 225
 }
