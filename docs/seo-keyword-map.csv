@@ -1,0 +1,17 @@
+产品线,现有URL路径,主关键词假设,辅助关键词假设,采购意图,建议页面职责,优先级
+两线,/,custom tire and industrial labels,custom label manufacturer,品牌与产品总入口,概述两条业务线并分别导向分类页,P1
+轮胎,/custom-tire-labels/,custom tire labels,tire label manufacturer; tyre labels,供应商/定制采购,作为轮胎标签总类页；区分胎面、条码、产品识别,P1
+轮胎,/tire-tread-labels/,custom tire tread labels,tire tread stickers; printed tire labels,胎面标签采购,表面、粘胶评估、图稿、卷向、尺寸与样品确认,P1
+轮胎,/tire-barcode-labels/,tire barcode labels,tire QR code labels; tire inventory labels,轮胎条码采购,数据字段、码制、可读文本与收货扫描流程,P1
+轮胎,/tire-identification-labels/,tire identification labels,tire product labels; private label tire stickers,产品识别标签采购,尺寸/型号/产品编号与客户批准信息的布局,P2
+工业,/custom-industrial-labels/,custom industrial labels,industrial label printing; industrial label manufacturer,工业标签供应商,按设备、化学容器、警示、电气、资产和使用环境分流,P1
+工业,/equipment-machinery-labels/,equipment labels,machinery labels; machine identification labels,设备标签采购,表面、安装位置、型号/序列号、暴露条件与样品,P1
+工业,/industrial-barcode-qr-code-labels/,industrial barcode labels,industrial QR code labels; barcode identification labels,工业条码采购,应用对象、数据目标、扫描距离与可读信息,P1
+工业,/asset-serial-number-labels/,custom asset labels,serial number labels; asset tracking labels,资产标签采购,编号规则、重复校验、二维码目标与资产记录,P2
+工业,/chemical-labels/,custom chemical labels,chemical drum labels; chemical container labels,化学容器标签采购,客户批准图稿、容器表面、尺寸和使用环境,P2
+工业,/warning-information-labels/,custom warning labels,machinery warning labels; safety information labels,警示标签采购,批准的警示文字、符号、语言和布局,P2
+工业,/electronics-electrical-labels/,electrical labels,electronics labels; electrical rating labels,电气标签采购,型号、额定信息、序列号和小字排版,P2
+工业,/special-environment-labels/,durable industrial labels,outdoor equipment labels; wet environment labels,按环境选型,逐项说明实际使用环境；性能需材料与样品验证,P2
+共用,/custom-variable-data-labels/,variable data label printing,sequential barcode labels; variable QR labels,数据印刷采购,输入文件、字段映射、编号规则、校样与交付,P2
+共用,/materials-adhesives/,label materials and adhesives,industrial label material selection; tire label adhesive,选型辅助,解释选型因素并回链轮胎与工业的相关产品页,P2
+共用,/contact-get-quote/,custom label quote,tire label quote; industrial label quote,提交需求,明确需求整理与发送步骤，验证真实询盘路径,P1
