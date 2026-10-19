@@ -120,3 +120,7 @@ Last updated: 2026-10-16
 ## Content use
 
 Use the linked pages as source material and preserve their qualifications. Do not infer unlisted prices, production limits, certifications, test results, customer identities, or performance guarantees.
+
+## New buyer guides — 2026-10-19
+- [Changing Tire Label Suppliers? Match More Than the Artwork](https://www.cyjlabels.com/blog/changing-tire-label-suppliers-transfer-checklist/): Changing tire label suppliers? Compare construction, barcode data, roll format and trial conditions before approving replacement supply.
+- [Asset Labels for a CMMS Migration: What Actually Needs Reprinting?](https://www.cyjlabels.com/blog/asset-labels-cmms-migration-reprint-decision/): Moving to a new CMMS? Decide which asset labels to keep, replace or hold before ordering. Check barcode mapping, print files and installation handoff.
