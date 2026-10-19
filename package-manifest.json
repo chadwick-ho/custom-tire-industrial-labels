@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:49:27.460Z",
+  "generatedAt": "2026-10-19T02:29:43.633056+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -151,8 +151,10 @@
     "/blog/narrow-wide-tire-tread-label-size/",
     "/blog/heat-shrink-vs-wrap-around-wire-markers/",
     "/blog/tool-crib-tool-id-vs-drawer-label/",
-    "/blog/ul-969-label-system-document-check/"
+    "/blog/ul-969-label-system-document-check/",
+    "/blog/changing-tire-label-suppliers-transfer-checklist/",
+    "/blog/asset-labels-cmms-migration-reprint-decision/"
   ],
-  "fileCount": 390,
-  "assetCount": 225
+  "fileCount": 601,
+  "assetCount": 230
 }
