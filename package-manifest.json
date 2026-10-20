@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:29:43.633056+00:00",
+  "generatedAt": "2026-10-20T19:45:53.330073+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -153,8 +153,10 @@
     "/blog/tool-crib-tool-id-vs-drawer-label/",
     "/blog/ul-969-label-system-document-check/",
     "/blog/changing-tire-label-suppliers-transfer-checklist/",
-    "/blog/asset-labels-cmms-migration-reprint-decision/"
+    "/blog/asset-labels-cmms-migration-reprint-decision/",
+    "/blog/tire-label-roll-splices-usable-quantity/",
+    "/blog/equipment-labels-temporary-protective-film/"
   ],
-  "fileCount": 601,
-  "assetCount": 230
+  "fileCount": 607,
+  "assetCount": 234
 }
