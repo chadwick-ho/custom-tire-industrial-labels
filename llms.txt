@@ -124,3 +124,7 @@ Use the linked pages as source material and preserve their qualifications. Do no
 ## New buyer guides — 2026-10-19
 - [Changing Tire Label Suppliers? Match More Than the Artwork](https://www.cyjlabels.com/blog/changing-tire-label-suppliers-transfer-checklist/): Changing tire label suppliers? Compare construction, barcode data, roll format and trial conditions before approving replacement supply.
 - [Asset Labels for a CMMS Migration: What Actually Needs Reprinting?](https://www.cyjlabels.com/blog/asset-labels-cmms-migration-reprint-decision/): Moving to a new CMMS? Decide which asset labels to keep, replace or hold before ordering. Check barcode mapping, print files and installation handoff.
+
+## New buyer guides — 2026-10-21
+- [Tire Label Roll Splices: Agree What Counts Before Delivery](https://www.cyjlabels.com/blog/tire-label-roll-splices-usable-quantity/): Ordering tire label rolls? Agree splice acceptance, excluded labels, usable quantity and SKU-specific replacement before delivery. See what to put in the RFQ.
+- [Equipment Labels and Protective Film: Approve the Final Surface](https://www.cyjlabels.com/blog/equipment-labels-temporary-protective-film/): Before labeling protected equipment, confirm the final surface, film-removal responsibility and application stage. Build a clear equipment-label approval brief.
