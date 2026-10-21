@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:04:12.830463+00:00",
+  "generatedAt": "2026-10-21T02:16:56.557510+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -158,8 +158,9 @@
     "/blog/equipment-labels-temporary-protective-film/",
     "/blog/tire-label-forecast-vs-print-release/",
     "/blog/die-cut-label-liner-damage-receiving/",
-    "/blog/serial-label-sequence-after-slitting/"
+    "/blog/serial-label-sequence-after-slitting/",
+    "/blog/preprinted-tire-label-overprint-window/"
   ],
-  "fileCount": 616,
-  "assetCount": 240
+  "fileCount": 619,
+  "assetCount": 242
 }
