@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:45:53.330073+00:00",
+  "generatedAt": "2026-10-21T02:04:12.830463+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -155,8 +155,11 @@
     "/blog/changing-tire-label-suppliers-transfer-checklist/",
     "/blog/asset-labels-cmms-migration-reprint-decision/",
     "/blog/tire-label-roll-splices-usable-quantity/",
-    "/blog/equipment-labels-temporary-protective-film/"
+    "/blog/equipment-labels-temporary-protective-film/",
+    "/blog/tire-label-forecast-vs-print-release/",
+    "/blog/die-cut-label-liner-damage-receiving/",
+    "/blog/serial-label-sequence-after-slitting/"
   ],
-  "fileCount": 607,
-  "assetCount": 234
+  "fileCount": 616,
+  "assetCount": 240
 }
