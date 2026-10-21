@@ -128,3 +128,8 @@ Use the linked pages as source material and preserve their qualifications. Do no
 ## New buyer guides — 2026-10-21
 - [Tire Label Roll Splices: Agree What Counts Before Delivery](https://www.cyjlabels.com/blog/tire-label-roll-splices-usable-quantity/): Ordering tire label rolls? Agree splice acceptance, excluded labels, usable quantity and SKU-specific replacement before delivery. See what to put in the RFQ.
 - [Equipment Labels and Protective Film: Approve the Final Surface](https://www.cyjlabels.com/blog/equipment-labels-temporary-protective-film/): Before labeling protected equipment, confirm the final surface, film-removal responsibility and application stage. Build a clear equipment-label approval brief.
+
+## New buyer guides — 2026-10-21
+- [Tire Label Forecasts: Make the Print Release Explicit](https://www.cyjlabels.com/blog/tire-label-forecast-vs-print-release/): Separate tire-label planning quantities, print releases and deliveries. Use a release-balance example to clarify what is authorized before making stock.
+- [Suspected Label Liner Damage: Build a Receiving Record Before Use](https://www.cyjlabels.com/blog/die-cut-label-liner-damage-receiving/): Record suspected die-cut label liner damage without guessing the cause. Connect photos to roll identity, intended use and a documented release decision.
+- [Serial Label Rolls: Approve the Sequence After Slitting](https://www.cyjlabels.com/blog/serial-label-sequence-after-slitting/): A sorted serial-ID file may produce interleaved finished rolls. Approve the data-to-lane map, first presented value and roll continuation before production.
