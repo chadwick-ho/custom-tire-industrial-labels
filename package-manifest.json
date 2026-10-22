@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:37:25.967371+00:00",
+  "generatedAt": "2026-10-22T05:56:12.688409+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -170,8 +170,12 @@
     "/blog/tire-label-quote-delivery-scope/",
     "/blog/tire-label-cutting-tool-reorder-transfer/",
     "/blog/thermal-transfer-ribbon-coated-side-order/",
-    "/blog/equipment-window-label-viewing-adhesive-side/"
+    "/blog/equipment-window-label-viewing-adhesive-side/",
+    "/blog/tire-case-pack-quantity-gtin-change/",
+    "/blog/tire-rfid-epc-tid-printed-id-mapping/",
+    "/blog/industrial-barcode-artwork-source-resizing/",
+    "/blog/industrial-label-recyclable-claim-liner-scope/"
   ],
-  "fileCount": 652,
-  "assetCount": 264
+  "fileCount": 664,
+  "assetCount": 272
 }
