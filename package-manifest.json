@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:30:06.352799+00:00",
+  "generatedAt": "2026-10-22T05:37:25.967371+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -166,8 +166,12 @@
     "/blog/tire-label-white-text-overprint-review/",
     "/blog/tire-label-artwork-linked-assets-handoff/",
     "/blog/preprinted-ghs-label-empty-red-frames/",
-    "/blog/equipment-label-value-unit-prefix-proof/"
+    "/blog/equipment-label-value-unit-prefix-proof/",
+    "/blog/tire-label-quote-delivery-scope/",
+    "/blog/tire-label-cutting-tool-reorder-transfer/",
+    "/blog/thermal-transfer-ribbon-coated-side-order/",
+    "/blog/equipment-window-label-viewing-adhesive-side/"
   ],
-  "fileCount": 640,
-  "assetCount": 256
+  "fileCount": 652,
+  "assetCount": 264
 }
