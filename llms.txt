@@ -1,8 +1,8 @@
-# Custom Tire & Industrial Labels Manufacturer
+# CYJ Labels — Tire and Industrial Label Project Information
 
 > B2B custom label project information for tire and industrial applications. The site describes project-based label customization and provides product guides, application notes, and contact routes.
 
-Last updated: 2026-10-16
+Last updated: 2026-10-22
 
 ## Verified site scope
 
@@ -11,6 +11,12 @@ Last updated: 2026-10-16
 - Project assessment depends on the buyer's actual substrate, application process, use conditions, artwork, data, quantity, and delivery requirements.
 - The website does not publish a universal price, MOQ, production lead time, factory capacity, or blanket material-performance guarantee. Confirm those details for the specific project.
 - Third-party reports, regulatory documents, and certification evidence must be confirmed for the exact supplier, material, scope, and valid document. A symbol on a sample image is not evidence of certification.
+
+## Buyer decision routes
+
+- [Tire label selection and proof inputs](https://www.cyjlabels.com/custom-tire-labels/#buyer-decision)
+- [Industrial label task and content inputs](https://www.cyjlabels.com/custom-industrial-labels/#buyer-decision)
+- [About CYJ Labels and approval responsibilities](https://www.cyjlabels.com/about-us/#buyer-decision)
 
 ## Main pages
 

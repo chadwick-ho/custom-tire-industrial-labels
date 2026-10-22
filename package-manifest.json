@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:56:12.688409+00:00",
+  "generatedAt": "2026-10-22T07:27:18.462620+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -176,6 +176,6 @@
     "/blog/industrial-barcode-artwork-source-resizing/",
     "/blog/industrial-label-recyclable-claim-liner-scope/"
   ],
-  "fileCount": 664,
+  "fileCount": 665,
   "assetCount": 272
 }
