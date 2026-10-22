@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:49:05.435455+00:00",
+  "generatedAt": "2026-10-22T03:30:06.352799+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -163,8 +163,11 @@
     "/blog/tire-label-lot-acceptance-sampling/",
     "/blog/private-label-tire-brand-change-gtin-review/",
     "/blog/gs1-128-label-proof-readable-text-encoded-data/",
-    "/blog/tire-label-white-text-overprint-review/"
+    "/blog/tire-label-white-text-overprint-review/",
+    "/blog/tire-label-artwork-linked-assets-handoff/",
+    "/blog/preprinted-ghs-label-empty-red-frames/",
+    "/blog/equipment-label-value-unit-prefix-proof/"
   ],
-  "fileCount": 631,
-  "assetCount": 250
+  "fileCount": 640,
+  "assetCount": 256
 }
