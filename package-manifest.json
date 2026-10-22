@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:16:56.557510+00:00",
+  "generatedAt": "2026-10-22T02:49:05.435455+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -159,8 +159,12 @@
     "/blog/tire-label-forecast-vs-print-release/",
     "/blog/die-cut-label-liner-damage-receiving/",
     "/blog/serial-label-sequence-after-slitting/",
-    "/blog/preprinted-tire-label-overprint-window/"
+    "/blog/preprinted-tire-label-overprint-window/",
+    "/blog/tire-label-lot-acceptance-sampling/",
+    "/blog/private-label-tire-brand-change-gtin-review/",
+    "/blog/gs1-128-label-proof-readable-text-encoded-data/",
+    "/blog/tire-label-white-text-overprint-review/"
   ],
-  "fileCount": 619,
-  "assetCount": 242
+  "fileCount": 631,
+  "assetCount": 250
 }
