@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:31:06.614060+00:00",
+  "generatedAt": "2026-10-23T03:38:02.300248+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -184,8 +184,13 @@
     "/blog/tire-barcode-scanner-prefix-suffix-data/",
     "/blog/tire-tin-dot-code-vs-inventory-label/",
     "/blog/label-pdf-proof-actual-size-print-scaling/",
-    "/blog/control-panel-overlay-cutout-datum-drawing/"
+    "/blog/control-panel-overlay-cutout-datum-drawing/",
+    "/blog/tire-label-roll-length-label-count-pitch/",
+    "/blog/tire-label-proof-conflicting-approval-comments/",
+    "/blog/variable-label-data-row-copy-count/",
+    "/blog/write-on-equipment-label-laminate-pen-test/",
+    "/blog/retired-equipment-asset-label-deactivation/"
   ],
-  "fileCount": 695,
-  "assetCount": 293
+  "fileCount": 710,
+  "assetCount": 303
 }
