@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:23:56.783236+00:00",
+  "generatedAt": "2026-10-23T03:31:06.614060+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -179,8 +179,13 @@
     "/blog/tire-label-multiple-barcodes-wrong-scan/",
     "/blog/industrial-variable-label-unicode-font-proof/",
     "/blog/paired-asset-label-sets-copy-control/",
-    "/blog/equipment-qr-label-offline-fallback/"
+    "/blog/equipment-qr-label-offline-fallback/",
+    "/blog/tire-label-printer-dpi-template-migration/",
+    "/blog/tire-barcode-scanner-prefix-suffix-data/",
+    "/blog/tire-tin-dot-code-vs-inventory-label/",
+    "/blog/label-pdf-proof-actual-size-print-scaling/",
+    "/blog/control-panel-overlay-cutout-datum-drawing/"
   ],
-  "fileCount": 680,
-  "assetCount": 283
+  "fileCount": 695,
+  "assetCount": 293
 }

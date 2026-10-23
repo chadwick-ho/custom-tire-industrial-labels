@@ -4,7 +4,42 @@
     <title>Custom Tire &amp; Industrial Labels Resources</title>
     <link>https://www.cyjlabels.com/blog/</link>
     <description>Buyer guides for custom tire labels, industrial labels, barcode labels and label material selection.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 03:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:31:06 GMT</lastBuildDate>
+    <item>
+      <title>Control Panel Overlay Cutouts: Measure From One Datum</title>
+      <link>https://www.cyjlabels.com/blog/control-panel-overlay-cutout-datum-drawing/</link>
+      <guid>https://www.cyjlabels.com/blog/control-panel-overlay-cutout-datum-drawing/</guid>
+      <description>Approve panel-overlay holes and windows from one drawing reference. Connect datum, viewing side, feature positions and print relationships before cutting.</description>
+      <pubDate>Fri, 23 Oct 2026 03:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Label Proof Fits on Paper. Was It Printed at Actual Size?</title>
+      <link>https://www.cyjlabels.com/blog/label-pdf-proof-actual-size-print-scaling/</link>
+      <guid>https://www.cyjlabels.com/blog/label-pdf-proof-actual-size-print-scaling/</guid>
+      <description>Verify office print scale before changing label dimensions. Use a physical scale witness and separate paper fit review from finished-label qualification.</description>
+      <pubDate>Fri, 23 Oct 2026 03:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tire TIN and Inventory Labels: Keep the Molded Record in View</title>
+      <link>https://www.cyjlabels.com/blog/tire-tin-dot-code-vs-inventory-label/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-tin-dot-code-vs-inventory-label/</guid>
+      <description>Keep supplemental tire inventory IDs distinct from TIN source markings. Record readable evidence, transcription checks and an exception route for unclear data.</description>
+      <pubDate>Fri, 23 Oct 2026 03:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Tire Barcode Is Correct, but the Receiving Field Is Wrong</title>
+      <link>https://www.cyjlabels.com/blog/tire-barcode-scanner-prefix-suffix-data/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-barcode-scanner-prefix-suffix-data/</guid>
+      <description>Separate barcode content from scanner formatting and receiving-field behavior. Trace prefixes, suffixes and stored values before ordering a tire-label reprint.</description>
+      <pubDate>Fri, 23 Oct 2026 03:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Changing Tire-Label Printer Resolution? Recheck the Physical Output</title>
+      <link>https://www.cyjlabels.com/blog/tire-label-printer-dpi-template-migration/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-label-printer-dpi-template-migration/</guid>
+      <description>Moving a tire-label job to a different printer resolution? Compare dot-based settings, physical dimensions and approved data before releasing the new output.</description>
+      <pubDate>Fri, 23 Oct 2026 03:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>Equipment QR Labels Offline: What Must Still Be Readable?</title>
       <link>https://www.cyjlabels.com/blog/equipment-qr-label-offline-fallback/</link>
