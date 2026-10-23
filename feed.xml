@@ -4,7 +4,42 @@
     <title>Custom Tire &amp; Industrial Labels Resources</title>
     <link>https://www.cyjlabels.com/blog/</link>
     <description>Buyer guides for custom tire labels, industrial labels, barcode labels and label material selection.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 05:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:23:56 GMT</lastBuildDate>
+    <item>
+      <title>Equipment QR Labels Offline: What Must Still Be Readable?</title>
+      <link>https://www.cyjlabels.com/blog/equipment-qr-label-offline-fallback/</link>
+      <guid>https://www.cyjlabels.com/blog/equipment-qr-label-offline-fallback/</guid>
+      <description>Plan equipment identification when a QR destination is unavailable. Review readable IDs, authorized fallback tasks and cached-record limits before rollout.</description>
+      <pubDate>Fri, 23 Oct 2026 03:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Two Labels for One Asset: Order Matched Sets Without Creating Two Assets</title>
+      <link>https://www.cyjlabels.com/blog/paired-asset-label-sets-copy-control/</link>
+      <guid>https://www.cyjlabels.com/blog/paired-asset-label-sets-copy-control/</guid>
+      <description>Specify matched asset-label copies without creating duplicate assets. Reconcile set members, placement, physical quantities and replacement authorization.</description>
+      <pubDate>Fri, 23 Oct 2026 03:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Variable Label Text With Accents: Check the Characters, Then the Font</title>
+      <link>https://www.cyjlabels.com/blog/industrial-variable-label-unicode-font-proof/</link>
+      <guid>https://www.cyjlabels.com/blog/industrial-variable-label-unicode-font-proof/</guid>
+      <description>Trace accented label text from source to import, rendering and print. Separate corrupted characters from missing font support before approving variable data.</description>
+      <pubDate>Fri, 23 Oct 2026 03:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Two Barcodes on a Tire Label: What If the Scanner Reads the Wrong One?</title>
+      <link>https://www.cyjlabels.com/blog/tire-label-multiple-barcodes-wrong-scan/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-label-multiple-barcodes-wrong-scan/</guid>
+      <description>Review two-code tire labels by capture task. Compare intended payloads, wrong-code rejection and actual receiving behavior before changing the layout.</description>
+      <pubDate>Fri, 23 Oct 2026 03:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tire Label SKU Cross-References: Keep Supplier and Distributor Codes Apart</title>
+      <link>https://www.cyjlabels.com/blog/tire-label-supplier-distributor-sku-cross-reference/</link>
+      <guid>https://www.cyjlabels.com/blog/tire-label-supplier-distributor-sku-cross-reference/</guid>
+      <description>Map supplier and distributor tire SKUs without merging their meanings. Use an issuer-owned alias table, exception rows and a receiving lookup check.</description>
+      <pubDate>Fri, 23 Oct 2026 03:23:56 GMT</pubDate>
+    </item>
     <item>
       <title>Recyclable Industrial Labels? Separate the Printed Label, Liner and Collection Route</title>
       <link>https://www.cyjlabels.com/blog/industrial-label-recyclable-claim-liner-scope/</link>

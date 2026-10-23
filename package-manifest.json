@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:27:18.462620+00:00",
+  "generatedAt": "2026-10-23T03:23:56.783236+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -174,8 +174,13 @@
     "/blog/tire-case-pack-quantity-gtin-change/",
     "/blog/tire-rfid-epc-tid-printed-id-mapping/",
     "/blog/industrial-barcode-artwork-source-resizing/",
-    "/blog/industrial-label-recyclable-claim-liner-scope/"
+    "/blog/industrial-label-recyclable-claim-liner-scope/",
+    "/blog/tire-label-supplier-distributor-sku-cross-reference/",
+    "/blog/tire-label-multiple-barcodes-wrong-scan/",
+    "/blog/industrial-variable-label-unicode-font-proof/",
+    "/blog/paired-asset-label-sets-copy-control/",
+    "/blog/equipment-qr-label-offline-fallback/"
   ],
-  "fileCount": 665,
-  "assetCount": 273
+  "fileCount": 680,
+  "assetCount": 283
 }
