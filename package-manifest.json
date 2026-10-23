@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:49:44.171440+00:00",
+  "generatedAt": "2026-10-23T20:01:24.671465+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -194,8 +194,13 @@
     "/blog/tire-label-hand-peel-gloves-liner-trial/",
     "/blog/offline-tire-inventory-scan-reconciliation/",
     "/blog/public-equipment-qr-private-maintenance-data/",
-    "/blog/esd-label-symbol-susceptibility-protection/"
+    "/blog/esd-label-symbol-susceptibility-protection/",
+    "/blog/tire-label-rub-transfer-handling-trial/",
+    "/blog/tire-utqg-label-copy-mileage-claims/",
+    "/blog/tire-label-country-of-origin-wording-source/",
+    "/blog/electrical-enclosure-label-clearance-placement/",
+    "/blog/chemical-label-qr-sds-printed-information/"
   ],
-  "fileCount": 725,
-  "assetCount": 313
+  "fileCount": 740,
+  "assetCount": 323
 }
