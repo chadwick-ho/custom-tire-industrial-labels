@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:38:02.300248+00:00",
+  "generatedAt": "2026-10-23T19:49:44.171440+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -189,8 +189,13 @@
     "/blog/tire-label-proof-conflicting-approval-comments/",
     "/blog/variable-label-data-row-copy-count/",
     "/blog/write-on-equipment-label-laminate-pen-test/",
-    "/blog/retired-equipment-asset-label-deactivation/"
+    "/blog/retired-equipment-asset-label-deactivation/",
+    "/blog/tire-label-retained-sample-reference-plan/",
+    "/blog/tire-label-hand-peel-gloves-liner-trial/",
+    "/blog/offline-tire-inventory-scan-reconciliation/",
+    "/blog/public-equipment-qr-private-maintenance-data/",
+    "/blog/esd-label-symbol-susceptibility-protection/"
   ],
-  "fileCount": 710,
-  "assetCount": 303
+  "fileCount": 725,
+  "assetCount": 313
 }
