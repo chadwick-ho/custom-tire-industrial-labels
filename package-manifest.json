@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:01:24.671465+00:00",
+  "generatedAt": "2026-10-23T20:13:04.029681+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -199,8 +199,13 @@
     "/blog/tire-utqg-label-copy-mileage-claims/",
     "/blog/tire-label-country-of-origin-wording-source/",
     "/blog/electrical-enclosure-label-clearance-placement/",
-    "/blog/chemical-label-qr-sds-printed-information/"
+    "/blog/chemical-label-qr-sds-printed-information/",
+    "/blog/tire-gtin-check-digit-product-identity/",
+    "/blog/tire-label-long-model-name-text-overflow/",
+    "/blog/magnetic-equipment-status-labels-permanent-id/",
+    "/blog/label-mask-before-paint-removal-plan/",
+    "/blog/small-parts-data-matrix-qr-label-choice/"
   ],
-  "fileCount": 740,
-  "assetCount": 323
+  "fileCount": 755,
+  "assetCount": 333
 }
