@@ -4,7 +4,14 @@
     <title>Custom Tire &amp; Industrial Labels Resources</title>
     <link>https://www.cyjlabels.com/blog/</link>
     <description>Buyer guides for custom tire labels, industrial labels, barcode labels and label material selection.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 20:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:25:47 GMT</lastBuildDate>
+    <item>
+      <title>Asset Label Data Handoff: Send the Print Fields, Not the Whole Register</title>
+      <link>https://www.cyjlabels.com/blog/asset-label-print-export-field-scope/</link>
+      <guid>https://www.cyjlabels.com/blog/asset-label-print-export-field-scope/</guid>
+      <description>Prepare asset label print files without sharing the whole register. Define required fields, inspect the export and approve the actual production revision.</description>
+      <pubDate>Sat, 24 Oct 2026 20:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>Label Order Certificates of Conformance: Tie the Statement to the Supply</title>
       <link>https://www.cyjlabels.com/blog/label-order-certificate-conformance-scope/</link>

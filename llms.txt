@@ -213,3 +213,6 @@ Use the linked pages as source material and preserve their qualifications. Do no
 - [Tire Label Staining: Ask What the Rubber Barrier Actually Covers](https://www.cyjlabels.com/blog/tire-label-rubber-staining-barrier-review/): Separate tire label staining from adhesion and rub damage. Review barrier construction, sample identity and rubber-contact observations before ordering.
 - [Peel-and-Reveal Industrial Labels: Prove the Reading Sequence First](https://www.cyjlabels.com/blog/peel-reveal-industrial-label-content-access/): Review peel-and-reveal industrial label visibility, opening and reseal sequence. Compare a flat-label alternative before requesting format feasibility.
 - [Label Order Certificates of Conformance: Tie the Statement to the Supply](https://www.cyjlabels.com/blog/label-order-certificate-conformance-scope/): Define what a label order conformance statement identifies. Match item, specification and shipment references without confusing statements with test data.
+
+## New buyer guides — 2026-10-25
+- [Asset Label Data Handoff: Send the Print Fields, Not the Whole Register](https://www.cyjlabels.com/blog/asset-label-print-export-field-scope/): Prepare asset label print files without sharing the whole register. Define required fields, inspect the export and approve the actual production revision.
