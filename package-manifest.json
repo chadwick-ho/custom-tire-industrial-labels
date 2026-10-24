@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:13:04.029681+00:00",
+  "generatedAt": "2026-10-24T14:40:30.559933+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -206,6 +206,6 @@
     "/blog/label-mask-before-paint-removal-plan/",
     "/blog/small-parts-data-matrix-qr-label-choice/"
   ],
-  "fileCount": 755,
-  "assetCount": 333
+  "fileCount": 757,
+  "assetCount": 335
 }
