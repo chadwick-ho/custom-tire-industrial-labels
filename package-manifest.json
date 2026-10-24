@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:02:55.764201+00:00",
+  "generatedAt": "2026-10-24T20:25:47.099310+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -208,8 +208,9 @@
     "/blog/tire-label-csv-commas-line-breaks/",
     "/blog/tire-label-rubber-staining-barrier-review/",
     "/blog/peel-reveal-industrial-label-content-access/",
-    "/blog/label-order-certificate-conformance-scope/"
+    "/blog/label-order-certificate-conformance-scope/",
+    "/blog/asset-label-print-export-field-scope/"
   ],
-  "fileCount": 769,
-  "assetCount": 343
+  "fileCount": 772,
+  "assetCount": 345
 }
