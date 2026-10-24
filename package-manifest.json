@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:40:30.559933+00:00",
+  "generatedAt": "2026-10-24T20:02:55.764201+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -204,8 +204,12 @@
     "/blog/tire-label-long-model-name-text-overflow/",
     "/blog/magnetic-equipment-status-labels-permanent-id/",
     "/blog/label-mask-before-paint-removal-plan/",
-    "/blog/small-parts-data-matrix-qr-label-choice/"
+    "/blog/small-parts-data-matrix-qr-label-choice/",
+    "/blog/tire-label-csv-commas-line-breaks/",
+    "/blog/tire-label-rubber-staining-barrier-review/",
+    "/blog/peel-reveal-industrial-label-content-access/",
+    "/blog/label-order-certificate-conformance-scope/"
   ],
-  "fileCount": 757,
-  "assetCount": 335
+  "fileCount": 769,
+  "assetCount": 343
 }
