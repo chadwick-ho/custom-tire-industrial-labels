@@ -216,3 +216,9 @@ Use the linked pages as source material and preserve their qualifications. Do no
 
 ## New buyer guides — 2026-10-25
 - [Asset Label Data Handoff: Send the Print Fields, Not the Whole Register](https://www.cyjlabels.com/blog/asset-label-print-export-field-scope/): Prepare asset label print files without sharing the whole register. Define required fields, inspect the export and approve the actual production revision.
+
+## New buyer guides — 2026-10-26
+- [Tire Warehouse Date Labels: Receipt, Print or Manufacture?](https://www.cyjlabels.com/blog/tire-label-date-fields-batch-date-format/): Define receipt and print dates on tire warehouse labels. Approve date sources, display rules and reprint behavior without implying manufacture date.
+- [Thermal Tire Barcodes: Review Print Direction Before Rotating the Code](https://www.cyjlabels.com/blog/thermal-tire-barcode-ladder-picket-fence/): Review ladder and picket-fence barcode orientation for thermal tire labels. Compare feed direction, required geometry, printed output and applied scanning.
+- [Cover-Up Equipment Labels: Test What the Old Print Can Still Reveal](https://www.cyjlabels.com/blog/blockout-equipment-labels-old-print-showthrough/): Review opaque cover-up equipment labels on the real old graphic. Separate authority to conceal, show-through, coverage and attachment before ordering.
+- [Tactile Equipment Labels: Separate Raised Information From Flat Print](https://www.cyjlabels.com/blog/tactile-equipment-labels-flat-print-feasibility/): Define the task before ordering tactile equipment labels. Separate flat print, raised formats and Braille, then confirm capability and physical review.
