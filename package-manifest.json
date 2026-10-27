@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:51:57.147414+00:00",
+  "generatedAt": "2026-10-27T08:32:55.759000+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -213,8 +213,13 @@
     "/blog/tire-label-date-fields-batch-date-format/",
     "/blog/thermal-tire-barcode-ladder-picket-fence/",
     "/blog/blockout-equipment-labels-old-print-showthrough/",
-    "/blog/tactile-equipment-labels-flat-print-feasibility/"
+    "/blog/tactile-equipment-labels-flat-print-feasibility/",
+    "/blog/tire-label-printer-media-out-review/",
+    "/blog/tire-label-sheet-registration-pitch/",
+    "/blog/laser-printable-equipment-label-stock-approval/",
+    "/blog/low-outgassing-labels-evidence-scope/",
+    "/blog/label-weathering-test-hours-service-life/"
   ],
-  "fileCount": 784,
-  "assetCount": 353
+  "fileCount": 804,
+  "assetCount": 368
 }
