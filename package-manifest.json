@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T08:32:55.759000+00:00",
+  "generatedAt": "2026-10-28T01:52:27.428078+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -218,8 +218,9 @@
     "/blog/tire-label-sheet-registration-pitch/",
     "/blog/laser-printable-equipment-label-stock-approval/",
     "/blog/low-outgassing-labels-evidence-scope/",
-    "/blog/label-weathering-test-hours-service-life/"
+    "/blog/label-weathering-test-hours-service-life/",
+    "/blog/thermal-transfer-print-voids-buyers-review/"
   ],
-  "fileCount": 804,
-  "assetCount": 368
+  "fileCount": 807,
+  "assetCount": 370
 }

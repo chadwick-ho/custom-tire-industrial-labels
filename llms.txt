@@ -229,3 +229,6 @@ Use the linked pages as source material and preserve their qualifications. Do no
 - [Laser-Printable Equipment Labels: Qualify the Stock Before the Artwork](https://www.cyjlabels.com/blog/laser-printable-equipment-label-stock-approval/): Confirm printer and sheet compatibility before buying equipment label stock. Separate processing, printed data and installed-use requirements.
 - [Low-Outgassing Labels: A Material Database Entry Is Only the Start](https://www.cyjlabels.com/blog/low-outgassing-labels-evidence-scope/): Review low-outgassing label evidence against the finished construction. Separate component database listings from engineering approval.
 - [Label Weathering Reports: Test Hours Are Not a Service-Life Promise](https://www.cyjlabels.com/blog/label-weathering-test-hours-service-life/): Compare label weathering reports by construction, cycle and evaluation endpoint. Avoid unsupported conversions from test hours to service years.
+
+## New buyer guides — 2026-10-28
+- [Thermal Transfer Label Voids: What to Check Before Reordering Supplies](https://www.cyjlabels.com/blog/thermal-transfer-print-voids-buyers-review/): Investigate missing print on thermal transfer labels before changing supplies. Record affected output, printer details and the approved media pairing.
