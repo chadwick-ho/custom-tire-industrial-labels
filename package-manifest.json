@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:47:17.322834+00:00",
+  "generatedAt": "2026-10-29T10:16:34.396842+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -220,8 +220,9 @@
     "/blog/low-outgassing-labels-evidence-scope/",
     "/blog/label-weathering-test-hours-service-life/",
     "/blog/thermal-transfer-print-voids-buyers-review/",
-    "/blog/reflective-equipment-labels-light-source/"
+    "/blog/reflective-equipment-labels-light-source/",
+    "/blog/food-equipment-label-contact-scope/"
   ],
-  "fileCount": 810,
-  "assetCount": 372
+  "fileCount": 813,
+  "assetCount": 374
 }
