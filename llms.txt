@@ -232,3 +232,6 @@ Use the linked pages as source material and preserve their qualifications. Do no
 
 ## New buyer guides — 2026-10-28
 - [Thermal Transfer Label Voids: What to Check Before Reordering Supplies](https://www.cyjlabels.com/blog/thermal-transfer-print-voids-buyers-review/): Investigate missing print on thermal transfer labels before changing supplies. Record affected output, printer details and the approved media pairing.
+
+## New buyer guides — 2026-10-29
+- [Reflective Equipment Labels or Glow-in-the-Dark Labels? Define the Light First](https://www.cyjlabels.com/blog/reflective-equipment-labels-light-source/): Compare reflective and photoluminescent equipment labels by light source, observer position and the actual reading task before requesting samples.
