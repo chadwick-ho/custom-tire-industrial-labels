@@ -4,7 +4,7 @@
     <loc>https://www.cyjlabels.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://www.cyjlabels.com/products/</loc>
@@ -123,6 +123,7 @@
     <loc>https://www.cyjlabels.com/faq/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://www.cyjlabels.com/about-us/</loc>
@@ -1128,6 +1129,10 @@
   </url>
   <url>
     <loc>https://www.cyjlabels.com/blog/food-equipment-label-contact-scope/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cyjlabels.com/blog/tire-barcode-colour-brand-review/</loc>
     <lastmod>2026-10-29</lastmod>
   </url>
 </urlset>
