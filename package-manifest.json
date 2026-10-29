@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:16:34.396842+00:00",
+  "generatedAt": "2026-10-29T13:05:55.415253+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -221,8 +221,9 @@
     "/blog/label-weathering-test-hours-service-life/",
     "/blog/thermal-transfer-print-voids-buyers-review/",
     "/blog/reflective-equipment-labels-light-source/",
-    "/blog/food-equipment-label-contact-scope/"
+    "/blog/food-equipment-label-contact-scope/",
+    "/blog/tire-barcode-colour-brand-review/"
   ],
-  "fileCount": 813,
-  "assetCount": 374
+  "fileCount": 816,
+  "assetCount": 376
 }
