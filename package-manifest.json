@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:52:27.428078+00:00",
+  "generatedAt": "2026-10-29T07:47:17.322834+00:00",
   "root": "index.html",
   "routes": [
     "/",
@@ -219,8 +219,9 @@
     "/blog/laser-printable-equipment-label-stock-approval/",
     "/blog/low-outgassing-labels-evidence-scope/",
     "/blog/label-weathering-test-hours-service-life/",
-    "/blog/thermal-transfer-print-voids-buyers-review/"
+    "/blog/thermal-transfer-print-voids-buyers-review/",
+    "/blog/reflective-equipment-labels-light-source/"
   ],
-  "fileCount": 807,
-  "assetCount": 370
+  "fileCount": 810,
+  "assetCount": 372
 }
