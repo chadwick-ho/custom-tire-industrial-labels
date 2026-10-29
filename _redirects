@@ -1,0 +1,8 @@
+# Permanent redirects for this static export.
+# Hosts that honor _redirects (Cloudflare Workers static assets, Netlify) apply these
+# before the HTML file, so /contact and /contact/ return 301 even though
+# contact/index.html exists as a no-JavaScript fallback.
+# GitHub Pages serves that HTML file as HTTP 200 and does not read this file.
+/contact /contact-get-quote/ 301
+/contact/ /contact-get-quote/ 301
+/contact/index.html /contact-get-quote/ 301
